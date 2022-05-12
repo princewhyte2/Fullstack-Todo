@@ -11,11 +11,11 @@
 
 <div align="center">
   <h3>
-    <a href="https://{your-demo-link.your-domain}">
+    <a href="https://share.vidyard.com/watch/juVLQJWqbC2eEQVzBugr7A?">
       Demo
     </a>
     <span> | </span>
-    <a href="https://{your-url-to-the-solution}">
+    <a href="https://github.com/princewhyte2/Fullstack-Todo">
       Solution
     </a>
     <span> | </span>
@@ -45,14 +45,12 @@
 
 ## Overview
 
-![screenshot](https://user-images.githubusercontent.com/16707738/92399059-5716eb00-f132-11ea-8b14-bcacdc8ec97b.png)
+![screenshot](https://share.vidyard.com/watch/juVLQJWqbC2eEQVzBugr7A?)
 
-Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
-
-- Where can I see your demo?
-- What was your experience?
-- What have you learned/improved?
-- Your wisdom? :)
+- you can watch the demo by clicking the link above
+- It's really amazing seeing me write code with with code quality in mind
+- Improving application performance for me expecially with http response has moved to another level
+- Writing tests for your code is an important part of the development process
 
 ### Built With
 
@@ -81,7 +79,7 @@ To clone and run this application, you'll need [Git](https://git-scm.com) and [N
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/your-user-name/your-project-name
+$ git clone https://github.com/princewhyte2/Fullstack-Todo
 
 Here you have two directories:
 The todo-app client and the todo-app server.
@@ -103,6 +101,6 @@ $ pnpm dev to run the development server
 
 ## Contact
 
-- Website [your-website.com](https://{your-web-site-link})
-- GitHub [@your-username](https://{github.com/your-usermame})
-- Twitter [@your-twitter](https://{twitter.com/your-username})
+- LinkedIn: [@yprincewhyte2](https://www.linkedin.com/in/princewhyte2/)
+- GitHub [@princewhyte2](https://github.com/princewhyte2)
+- Twitter [@princewhyte02](https://twitter.com/princewhyte02)

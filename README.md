@@ -45,7 +45,7 @@
 
 ## Overview
 
-![screenshot](https://share.vidyard.com/watch/juVLQJWqbC2eEQVzBugr7A?)
+![video](https://share.vidyard.com/watch/juVLQJWqbC2eEQVzBugr7A?)
 
 - you can watch the demo by clicking the link above
 - It's really amazing seeing me write code with with code quality in mind

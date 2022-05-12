@@ -101,6 +101,6 @@ $ pnpm dev to run the development server
 
 ## Contact
 
-- LinkedIn: [@yprincewhyte2](https://www.linkedin.com/in/princewhyte2/)
+- LinkedIn: [@princewhyte2](https://www.linkedin.com/in/princewhyte2/)
 - GitHub [@princewhyte2](https://github.com/princewhyte2)
 - Twitter [@princewhyte02](https://twitter.com/princewhyte02)

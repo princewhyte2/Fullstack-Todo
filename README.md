@@ -45,7 +45,7 @@
 
 ## Overview
 
-![video](https://share.vidyard.com/watch/juVLQJWqbC2eEQVzBugr7A?)
+![screenshot](https://raw.githubusercontent.com/princewhyte2/Fullstack-Todo/master/screenshot.png)
 
 - you can watch the demo by clicking the link above
 - It's really amazing seeing me write code with with code quality in mind
